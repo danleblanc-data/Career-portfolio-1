@@ -1,35 +1,42 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
+      "title": "Business Intelligence and Visualization",
       "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
+        { "name": "Tableau", "level": 3, "icon": "skill-icons:flutter-dark" },
+        { "name": "Power BI", "level": 3, "icon": "skill-icons:dart-dark" },
+        { "name": "ArcGIS", "level": 1, "icon": "skill-icons:kotlin-dark"},
+        { "name": "D3.js", "level": 1, "icon": "skill-icons:kotlin-dark" }
       ]
     },
     {
-      "title": "Frontend",
+      "title": "Data Transformation, Modeling and Analytics",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
-      ]
-    },
-    {
-      "title": "Backend",
-      "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": "Python", "level": 2, "icon": "skill-icons:astro" },
+        { "name": "APIs", "level": 2, "icon": "skill-icons:html" },
+        { "name": "Tableau Prep", "level": 2, "icon": "skill-icons:css" },
+        { "name": "Looker", "level": 1, "icon": "skill-icons:tailwindcss-dark" },
+        { "name": "Power Query", "level": 1, "icon": "skill-icons:dart-dark" },
+        { "name": "Excel", "level": 1, "icon": "skill-icons:kotlin-dark" }
+
       ]
     },
     {
       "title": "Database",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "MySql", "level": 2, "icon": "skill-icons:fastapi" },
+        { "name": "Microsoft SQL Server", "level": 2, "icon": "skill-icons:python-dark" },
+        { "name": "HMIS", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+      ]
+    },
+    {
+      "title": "Process Management",
+      "skills": [
+        { "name": "Kanban", "level": 3, "icon": "skill-icons:sqlite" },
+        { "name": "Agile", "level": 2, "icon": "skill-icons:postgresql-dark" },
+        { "name": "Scrum", "level": 1, "icon": "skill-icons:fastapi" },
+        { "name": "Version Control", "level": 1, "icon": "skill-icons:fastapi"}
+        
       ]
     }
   ]

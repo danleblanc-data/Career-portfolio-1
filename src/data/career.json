@@ -1,26 +1,42 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
+    "company": "Los Angeles Homeless Services Authority",
+    "role": "Business Intelligence Developer",
+    "period": "May 2025 - Present",
     "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "description": "Developing and maintaining business intelligence solutions to drive data-driven decision-making.",
+    "skills": ["Tableau", "Tableau Prep", "Python", "APIs", "Microsoft SQL Server"]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
+    "company": "People Assisting the Homeless",
+    "role": "Regional Data Coordinator",
+    "period": "June 2021 - April 2025",
     "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "description": "Partnering with senior leaders, providing regional performance and data quality monitoring and recommendations.",
+    "skills": ["Excel", "Power BI", "Dax", "Power Query", "MySQL"]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
+    "company": "People Assisting the Homeless",
+    "role": "Retention Case Manager",
+    "period": "February 2019 - June 2021",
+    "type": "Full time job",
+    "description": "Managing client cases to ensure Section 8 housing placement, housing stability and connection to supportive services.",
+    "skills": ["Client Management", "Service Delivery", "Documentation", "HMIS","Reporting"]
+  },
+  {
+    "company": "Southeastern University",
+    "role": "BA Multidisciplinary Studies",
+    "period": "January 2014 - December 2016",
     "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "description": "Double Minor in Community Development and Poverty Alleviation and Non-Profit Studies.",
+    "skills": ["Social Entrepreneurship", "Root Cause Analysis", "Non-Profit Consulting"]
+  },
+  {
+    "company": "Don Bosco Technical Institute",
+    "role": "High School Diploma",
+    "period": "August 2007 - May 2011",
+    "type": "Student",
+    "description": "Computer Science Concentration",
+    "skills": ["C++", "HTML", "JavaScript", "Computer Hardware"]
   }
 ]

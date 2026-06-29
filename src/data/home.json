@@ -1,22 +1,22 @@
 {
-  "name": "John Doe",
-  "photoUrl": "favicon.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
+  "name": "Daniel LeBlanc",
+  "photoUrl": "me.png",
+  "intro": "I'm a data professional specializing in business intelligence systems and data infrastructure development. I have a passion for collaborating with senior leaders and program teams to identify high leverage data product solutions, facilitating agile development methods to immediately and continuously provide value.",
   "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
-  "webpageTitle": "John Doe",
+  "webpageTitle": "DanLeBlanc.com",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
 
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/[YOUR_USER_NAME]",
+      "url": "https://github.com/danleblanc-data",
       "icon": "mdi:github",
       "showInContact": true
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/[YOUR_USER_NAME]",
+      "url": "https://linkedin.com/in/danleblancdata/",
       "icon": "mdi:linkedin",
       "showInContact": true
     },
@@ -34,15 +34,15 @@
     },
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "mailto:danleblanc.data@gmail.com",
       "icon": "mdi:email",
       "showInContact": true
     },
     {
       "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
+      "url": "#",
       "icon": "mdi:whatsapp",
-      "showInContact": true
+      "showInContact": false
     },
     {
       "name": "Facebook",
@@ -54,7 +54,7 @@
       "name": "Messenger",
       "url": "#",
       "icon": "mdi:facebook-messenger",
-      "showInContact": true
+      "showInContact": false
     },
     {
       "name": "Instagram",
